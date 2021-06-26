@@ -36,5 +36,8 @@
 * For additional help or questions about collaboration, please reach out to jpodell21@gmail.com
 * Follow me on Github at [JamesO1231](http://github.com/JamesO1231)
 
+## Video Tutorial
+* [Video Tutorial Link](https://drive.google.com/file/d/1Jy2lTnqJ42CndrBrS0MQQaMUUNLiK9vj/view)
+
 ## Usage Image
 ![Alt text](./images/usageImage.PNG)

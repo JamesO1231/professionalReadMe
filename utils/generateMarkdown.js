@@ -70,6 +70,9 @@ ${renderLicenseSection(data.license)}
 * For additional help or questions about collaboration, please reach out to ${data.email}
 * Follow me on Github at [${data.gitHub}](http://github.com/${data.gitHub})
 
+## Video Tutorial
+* [Video Tutorial Link](https://drive.google.com/file/d/1Jy2lTnqJ42CndrBrS0MQQaMUUNLiK9vj/view)
+
 ## Usage Image
 ![Alt text](./images/usageImage.PNG)
 `;
